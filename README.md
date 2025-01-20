@@ -1,5 +1,5 @@
 
-# Alert Sound System
+# Alert Sound System For Grafana
 
 ## Description
 This project is a Flask-based webhook receiver that triggers an alert sound whenever an alert is sent from Grafana. The sound is played using `pygame`.
